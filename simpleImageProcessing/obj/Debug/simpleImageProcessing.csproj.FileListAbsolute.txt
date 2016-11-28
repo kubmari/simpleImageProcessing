@@ -1,0 +1,6 @@
+F:\netEx\m1\SortExercise\simpleImageProcessing\simpleImageProcessing\bin\Debug\simpleImageProcessing.exe.config
+F:\netEx\m1\SortExercise\simpleImageProcessing\simpleImageProcessing\bin\Debug\simpleImageProcessing.exe
+F:\netEx\m1\SortExercise\simpleImageProcessing\simpleImageProcessing\bin\Debug\simpleImageProcessing.pdb
+F:\netEx\m1\SortExercise\simpleImageProcessing\simpleImageProcessing\obj\Debug\simpleImageProcessing.csprojResolveAssemblyReference.cache
+F:\netEx\m1\SortExercise\simpleImageProcessing\simpleImageProcessing\obj\Debug\simpleImageProcessing.exe
+F:\netEx\m1\SortExercise\simpleImageProcessing\simpleImageProcessing\obj\Debug\simpleImageProcessing.pdb
